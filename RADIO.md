@@ -9,7 +9,7 @@ Meditation Enthusiast Music is a live-stream of meditation music at our YouTube 
 All the music is licensed under the Public Domain, or a Creative Commons License.
 
 ## I have a song that I wish to be played!
-Awsome, and we will love to play it!
+Awsome, and we will love to play it!  Please read the next two sections.
 
 ### Song Submission Terms and Conditions:
 
@@ -27,8 +27,8 @@ Awsome, and we will love to play it!
  * Submit an issue at: [https://github.com/MeditationEnthusiasts/Tasks/issues/new](https://github.com/MeditationEnthusiasts/Tasks/issues/new)
  * In the title, put "[Song Submission]" first, and then the title of the song
  * In the description (where it says "Leave a comment") include the following:
- *    Webpage to download the song from (website should also include the license information.  If we can't find any, we'll reject the submission).
- *    We'll rip the song name, artist, album name (if any), album art from the audio file's meta data.  If there is no metadata, we'll take the information from the website.  If there is no information on the website link, please include the the information in the comments, or the song may be rejected.
+   * Webpage to download the song from (website should also include the license information.  If we can't find any, we'll reject the submission).
+   * We'll rip the song name, artist, album name (if any), album art from the audio file's meta data.  If there is no metadata, we'll take the information from the website.  If there is no information on the website link, please include the the information in the comments, or the song may be rejected.
  * Hit "Submit Issue."  We'll let you know if we added the song to the playlist or not.
 
 
