@@ -4,7 +4,7 @@
 
 Meditation Enthusiast Music is a live-stream of meditation music at our YouTube channel, located here:
 
-[https://youtu.be/QOoxpkQnq8w](https://youtu.be/QOoxpkQnq8w)
+[https://www.meditationenthusiasts.org/live-stream/](https://www.meditationenthusiasts.org/live-stream/)
 
 All the music is licensed under the Public Domain, or a Creative Commons License.
 
